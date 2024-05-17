@@ -1,0 +1,11 @@
+{
+  "name": "ano-underline-comments",
+  "version": "1.0.0",
+  "description": "A JS plug-in that allows you to comment on the content of an article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WangQiuNing",
+  "license": "ISC"
+}
